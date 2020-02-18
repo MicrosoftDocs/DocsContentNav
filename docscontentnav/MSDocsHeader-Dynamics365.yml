@@ -1,0 +1,28 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/
+  title: Docs
+items:
+  - href: https://go.microsoft.com/fwlink/p/?linkid=864782
+    title: Get Dynamics 365
+  - href: https://go.microsoft.com/fwlink/?linkid=872677
+    title: Release plans
+  - title: Support
+    items:
+      - href: https://docs.microsoft.com/en-us/dynamics365/get-started/support
+        title: Support
+      - href: https://ideas.dynamics.com/ideas/
+        title: Ideas
+      - href: https://community.dynamics.com/
+        title: Community
+      - href: https://mbs.microsoft.com/customersource/
+        title: CustomerSource
+      - href: https://mbs.microsoft.com/partnersource/
+        title: PartnerSource
+  - href: https://go.microsoft.com/fwlink/?linkid=875599
+    title: Regional availability
+  - href: https://go.microsoft.com/fwlink/?linkid=870937
+    title: Trust Center
+  - href: https://appsource.microsoft.com/
+    title: AppSource

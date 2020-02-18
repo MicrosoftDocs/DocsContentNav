@@ -1,0 +1,14 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/
+  title: Docs
+items:
+  - href: https://docs.microsoft.com/windows
+    title: Windows
+  - href: https://docs.microsoft.com/azure/
+    title: Microsoft Azure
+  - href: https://docs.microsoft.com/visualstudio/products
+    title: Visual Studio
+  - href: https://dev.office.com/
+    title: Office

@@ -1,0 +1,70 @@
+### YamlMime:ContentNav
+
+category:
+  href: /en-us/openspecs/main/ms-openspeclp/3589baea-5b22-48f2-9d43-f5bea4960ddb
+  title: Open Specifications
+items:
+  - title: Specifications
+    items:
+      - title: Exchange Server
+        items:
+          - href: /en-us/openspecs/exchange_standards/ms-oxstandlp/de2c147d-83de-49ac-bd3e-815e2dd691fd
+            title: Exchange Server and Outlook Standards Support
+          - href: /en-us/openspecs/exchange_server_protocols/ms-oxprotlp/30c90a39-9adf-472b-8b5b-03c282304a83
+            title: Exchange Server Protocol Documents
+      - title: Internet Explorer
+        items:
+          - href: /en-us/openspecs/ie_standards/ms-iestandlp/8aea05e3-8c1e-4a9a-9614-31f71e679457
+            title: Internet Explorer Standards Support Documentation
+      - title: Office
+        items:
+          - href: /en-us/openspecs/microsoft_general_purpose_programming_languages/ms-proglanglp/a0fa63f3-19ba-4525-a22f-f0ab65dc015d
+            title: Microsoft General Purpose Programming Languages
+          - href: /en-us/openspecs/office_file_formats/ms-offfflp/8aea05e3-8c1e-4a9a-9614-31f71e679456
+            title: Office File Formats
+          - href: /en-us/openspecs/office_protocols/ms-offprotlp/5859f0f1-a929-475b-9b23-554994675456
+            title: Office Protocols
+          - href: /en-us/openspecs/office_standards/ms-offstandlp/d5784a8b-7070-466b-befa-b7bf3724c6f0
+            title: Word, Excel and PowerPoint Standards Support
+      - title: SharePoint
+        items:
+          - href: /en-us/openspecs/sharepoint_protocols/MS-SPPROTLP/8a50af28-2b50-43d8-9c5a-3e520255ef7e
+            title: SharePoint Products and Technologies Protocols Overview
+      - title: SQL Server
+        items:
+          - href: /en-us/openspecs/odata_standards/ms-sqlodstandlp/89584d21-315b-4ae7-8a4d-cf1e8dc6e8de
+            title: OData Standards Support
+          - href: /en-us/openspecs/sql_data_portability/ms-sqlportlp/f0ff9248-7365-4de7-bf69-63269c0c6776
+            title: SQL Server Data Portability
+          - href: /en-us/openspecs/sql_server_protocols/ms-sqlprotlp/f16558b2-4561-45be-89c9-6f9114514c97
+            title: SQL Server Protocols
+          - href: /en-us/openspecs/sql_standards/MS-SQLSTANDLP/89fb00b1-4b9e-4296-92ce-a2b3f7ca01d2
+            title: SQL Server Standards Support
+      - title: Windows
+        items:
+          - href: /en-us/openspecs/windows_protocols/MS-WINPROTLP/92b33e19-6fff-496b-86c3-d168206f9845
+            title: Windows Protocols
+          - href: /en-us/openspecs/wordpad_standards_support/MS-WINWPSTANDLP/6cb7c35f-d50e-4dd6-96c0-5656398c8d39
+            title: Windows WordPad Standards Support
+          - href: /en-us/openspecs/microsoft_domain_specific_languages/MS-MSDLLP/69a08c4f-e943-4729-be0d-1b33d4ad967e
+            title: Microsoft Domain-Specific Languages
+  - href: /en-us/openspecs/dev_center/ms-devcentlp/51a0d3ff-9f77-464c-b83f-2de08ed28134
+    title: Dev Center
+  - href: https://interopevents.com/?target=newtab
+    title: Events
+  - href: /en-us/openspecs/dev_center/ms-devcentlp/a859bab5-e1b5-481c-9b73-4ce93efc0a06?branch=master
+    title: Test
+  - href: /en-us/openspecs/dev_center/ms-devcentlp/a7729059-1a2f-4698-a995-c0c011df2580
+    title: Support
+  - href: /en-us/openspecs/dev_center/ms-devcentlp/44355844-d37d-4ec6-bee1-6b6cda79f722
+    title: Programs
+  - href: /en-us/openspecs/dev_center/ms-devcentlp/13571077-e344-4e6f-a477-369894979798
+    title: Patents
+  - title: Blog
+    items:
+      - href: /en-us/openspecs/blog/ms-offintbloglp/61fc0f77-b3e6-4b4f-aea9-ce472fa98835
+        title: Office Interoperability Developer Blog
+      - href: /en-us/openspecs/blog/ms-sqlintbloglp/4fac6802-34cf-4f7a-ab52-cb34d48913b3
+        title: SQL Interoperability Developer Blog
+      - href: /en-us/openspecs/blog/ms-winintbloglp/68ab5fe5-08a1-4426-af41-9a20380624a6
+        title: Windows Interoperability Developer Blog

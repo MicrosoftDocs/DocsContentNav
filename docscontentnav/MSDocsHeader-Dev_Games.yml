@@ -1,0 +1,14 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/playready
+  title: PlayReady
+items:
+  - href: https://www.microsoft.com/playready
+    title: Business
+  - href: https://www.microsoft.com/playready/licensing
+    title: Licensing
+  - href: http://test.playready.microsoft.com/
+    title: Test
+  - href: http://wmlalicensing.com/
+    title: WMLA Ops

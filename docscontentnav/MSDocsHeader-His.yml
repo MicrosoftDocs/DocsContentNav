@@ -1,0 +1,24 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/host-integration-server
+  title: HIS
+items:
+  - title: Blogs & Forums
+    items:
+      - href: https://blogs.msdn.microsoft.com/hostintegrationserver
+        title: HIS team blog
+      - href: http://stevemelan.wordpress.com/
+        title: Steve Melan, MVP blog
+  - href: https://docs.microsoft.com/host-integration-server/his-downloads-blogs
+    title: Downloads
+  - href: https://docs.microsoft.com/host-integration-server/his-update-center
+    title: Update Center
+  - title: MSDN subscribers
+    items:
+      - href: https://msdn.microsoft.com/subscriptions/default.aspx
+        title: Activate your subscription
+      - href: https://msdn.microsoft.com/subscriptions/aa948874.aspx
+        title: Get help with your subscription
+      - href: https://msdn.microsoft.com/magazine/default.aspx
+        title: MSDN Magazine

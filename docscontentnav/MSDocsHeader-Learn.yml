@@ -1,0 +1,20 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/learn
+  title: Learn
+items:
+  - title: Products
+    items:
+      - href: https://docs.microsoft.com/learn/azure
+        title: Azure
+      - href: https://docs.microsoft.com/learn/dynamics365/
+        title: Dynamics 365
+      - href: https://docs.microsoft.com/learn/m365/
+        title: Microsoft 365
+      - href: https://docs.microsoft.com/learn/powerplatform/
+        title: Power Platform
+  - href: https://docs.microsoft.com/learn/browse/
+    title: Browse All
+  - href: https://www.microsoft.com/en-us/learning/certification-overview.aspx
+    title: Certifications

@@ -1,0 +1,28 @@
+### YamlMime:ContentNav
+
+category:
+  href: /healthvault/
+  title: HealthVault
+items:
+  - href: /healthvault/getting-started
+    title: Get Started
+  - title: Learn
+    items:
+      - href: /healthvault/concepts/connectivity/
+        title: Connectivity
+      - href: /healthvault/concepts/authorization/
+        title: Authentication/Authorization
+      - href: /healthvault/concepts/data/
+        title: Data
+      - href: /healthvault/concepts/xml-api/
+        title: XML API
+      - href: /healthvault/concepts/advanced/
+        title: Advanced
+      - href: /healthvault/concepts/device-driver-kit/
+        title: Device Driver Kit
+  - href: /healthvault/#pivot=sdkstools
+    title: SDKs
+  - href: https://blogs.msdn.microsoft.com/healthvault
+    title: Blog
+  - href: https://social.msdn.microsoft.com/Forums/en-US/home?forum=healthvault
+    title: Forums

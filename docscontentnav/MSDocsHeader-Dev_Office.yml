@@ -1,0 +1,92 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/office
+  title: Office Dev Center
+items:
+  - title: Explore
+    items:
+      - href: https://products.office.com/en-us/business/developer-platform
+        title: Platform Opportunity
+      - title: Go-to-Market Resources
+        items:
+          - href: https://developer.microsoft.com/en-us/office/go-to-market
+            title: Go to Market
+          - href: https://developer.microsoft.com/en-us/office/go-to-market/go-to-market-guide
+            title: Go-to-Market Guide
+          - href: https://developer.microsoft.com/en-us/office/go-to-market/develop-strategy
+            title: Develop Your Strategy
+          - href: https://developer.microsoft.com/en-us/office/go-to-market/optimize-ux
+            title: Optimize UX
+          - href: https://developer.microsoft.com/en-us/office/go-to-market/prepare-to-go-to-market
+            title: Prepare to Go to Market
+          - href: https://developer.microsoft.com/en-us/office/go-to-market/monitor-and-manage-lifecycle
+            title: Monitor and Manage Lifecycle
+      - title: Industries
+        items:
+          - href: https://developer.microsoft.com/en-us/office/edu
+            title: Education
+          - href: https://dev.office.com/industry-verticals/healthcare
+            title: Healthcare
+  - title: Products
+    items:
+      - href: https://developer.microsoft.com/en-us/access
+        title: Access
+      - href: https://developer.microsoft.com/en-us/excel
+        title: Excel
+      - href: https://developer.microsoft.com/en-us/kaizala
+        title: Kaizala
+      - href: https://developer.microsoft.com/en-us/microsoft-teams
+        title: Microsoft Teams
+      - href: https://developer.microsoft.com/en-us/onedrive
+        title: OneDrive
+      - href: https://developer.microsoft.com/en-us/onenote
+        title: OneNote
+      - href: https://developer.microsoft.com/en-us/outlook/
+        title: Outlook
+      - href: https://developer.microsoft.com/en-us/powerpoint
+        title: PowerPoint
+      - href: https://developer.microsoft.com/en-us/project
+        title: Project
+      - href: https://developer.microsoft.com/en-us/sharepoint
+        title: SharePoint
+      - href: https://developer.microsoft.com/en-us/skype
+        title: Skype
+      - href: https://developer.microsoft.com/en-us/visio
+        title: Visio
+      - href: https://developer.microsoft.com/en-us/word
+        title: Word
+      - href: https://developer.microsoft.com/en-us/yammer
+        title: Yammer
+  - title: Resources
+    items:
+      - href: https://developer.microsoft.com/en-us/office/docs
+        title: Docs
+      - href: https://developer.microsoft.com/en-us/office/docs#officetraining
+        title: Training
+      - href: https://developer.microsoft.com/en-us/office/blogs
+        title: Blog
+      - href: https://developer.microsoft.com/en-us/office/gallery/?filterBy=Samples,SDKs
+        title: Samples & SDKs
+      - href: https://developer.microsoft.com/en-us/office/gallery/?filterBy=Tools
+        title: Tools
+      - href: https://developer.microsoft.com/en-us/office/gallery/?filterBy=Videos,Podcasts
+        title: Videos & Podcasts
+      - href: https://developer.microsoft.com/en-us/office/events
+        title: Events
+      - href: https://developer.microsoft.com/en-us/office/go-to-market
+        title: Go-to-Market Resources
+      - href: https://developer.microsoft.com/en-us/office/gallery
+        title: All Resources
+  - title: Developer Program
+    items:
+      - href: https://developer.microsoft.com/en-us/office/dev-program
+        title: Join Now
+      - href: https://developer.microsoft.com/en-us/office/profile
+        title: My Dashboard
+      - href: https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program
+        title: Docs
+      - href: https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program-faq
+        title: FAQ
+  - href: https://developer.microsoft.com/en-us/office/docs#officecommunity
+    title: Support

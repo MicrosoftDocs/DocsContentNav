@@ -1,0 +1,40 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/odata
+  title: OData docs
+items:
+  - title: Libraries
+    items:
+      - href: https://www.nuget.org/packages/Microsoft.OData.Core/
+        title: OData Core
+      - href: http://www.nuget.org/packages/Microsoft.AspNetCore.OData/
+        title: Web API
+      - href: https://www.nuget.org/packages/Microsoft.OData.Edm/
+        title: EDM Lib
+      - href: http://www.nuget.org/packages/Microsoft.OData.Client/
+        title: OData client library
+  - href: https://docs.microsoft.com/en-us/odata/resources/tools
+    title: Tools
+  - title: Resources
+    items:
+      - href: https://aka.ms/odataprotocol
+        title: OData spec
+      - href: https://www.odata.org/
+        title: OData site
+      - href: https://github.com/odata
+        title: OData GitHub repo
+  - href: http://devblogs.microsoft.com/odata
+    title: Blog
+  - href: https://docs.microsoft.com/en-us/dotnet/api/overview/odata-dotnet/
+    title: API Reference
+  - title: Source Code
+    items:
+      - href: https://github.com/OData/odata.net/
+        title: OData Core
+      - href: https://github.com/OData/WebApi
+        title: Web API
+      - href: https://github.com/OData/odata.net/
+        title: EDM Lib
+  - href: https://docs.microsoft.com/en-us/odata/resources/support
+    title: Support

@@ -1,0 +1,42 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/windows
+  title: Windows Dev Center
+items:
+  - title: Explore
+    items:
+      - href: https://developer.microsoft.com/en-us/windows/get-started-windows-10
+        title: Get started developing for Windows
+      - href: https://developer.microsoft.com/en-us/windows/windows-10-for-developers
+        title: What’s new for Windows 10
+      - href: https://developer.microsoft.com/en-us/windows/enterprise
+        title: Build for enterprise
+      - href: https://developer.microsoft.com/en-us/windows/accessible-apps
+        title: Develop for accessibility
+      - href: https://developer.microsoft.com/en-us/windows/ad-monetization-platform
+        title: Ad Monetization platform
+  - title: Platforms
+    items:
+      - href: https://docs.microsoft.com/en-us/windows/apps/desktop/
+        title: Windows PCs
+      - href: https://developer.microsoft.com/en-us/windows/iot
+        title: Windows IoT
+      - href: https://developer.microsoft.com/en-us/mixed-reality
+        title: Mixed Reality
+      - href: https://developer.microsoft.com/en-us/games
+        title: Games
+      - href: https://developer.microsoft.com/en-us/web
+        title: Web
+      - href: https://docs.microsoft.com/en-us/windows/uwp/
+        title: UWP
+  - href: https://docs.microsoft.com/en-us/windows/apps
+    title: Docs
+  - href: https://developer.microsoft.com/en-us/windows/downloads
+    title: Downloads
+  - href: https://developer.microsoft.com/en-us/windows/samples
+    title: Samples
+  - href: https://developer.microsoft.com/en-us/windows/support
+    title: Support
+  - href: https://partner.microsoft.com/dashboard
+    title: Dashboard

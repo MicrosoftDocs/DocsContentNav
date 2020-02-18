@@ -1,0 +1,140 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/en-us/visualstudio
+  title: Visual Studio Docs
+items:
+  - title: Tasks
+    items:
+      - title: Core Tasks
+        items:
+          - href: https://go.microsoft.com/fwlink/?linkid=856608
+            title: Develop
+          - href: https://go.microsoft.com/fwlink/?linkid=833077
+            title: Build
+          - href: https://go.microsoft.com/fwlink/?linkid=833078
+            title: Debug
+          - href: https://go.microsoft.com/fwlink/?linkid=833079
+            title: Test
+          - href: https://go.microsoft.com/fwlink/?linkid=834349
+            title: Deploy
+          - href: https://go.microsoft.com/fwlink/?linkid=834348
+            title: Improve Performance
+      - title: Other Tasks
+        items:
+          - href: https://go.microsoft.com/fwlink/?linkid=856607
+            title: Access Data
+          - href: https://docs.microsoft.com/en-us/visualstudio/designers/designing-user-interfaces
+            title: Design User Interfaces
+          - href: https://docs.microsoft.com/en-us/azure/devops
+            title: DevOps
+          - href: https://go.microsoft.com/fwlink/?linkid=833081
+            title: Extend Visual Studio
+          - href: https://go.microsoft.com/fwlink/?linkid=865130
+            title: Version control
+  - title: Languages
+    items:
+      - href: https://go.microsoft.com/fwlink/?linkid=833062
+        title: C#
+      - href: https://go.microsoft.com/fwlink/?linkid=833063
+        title: C++
+      - href: https://go.microsoft.com/fwlink/?linkid=833067
+        title: F#
+      - href: https://go.microsoft.com/fwlink/?linkid=833064
+        title: JavaScript
+      - href: https://go.microsoft.com/fwlink/?linkid=833068
+        title: Python
+      - href: https://go.microsoft.com/fwlink/?linkid=833070
+        title: R
+      - href: https://go.microsoft.com/fwlink/?linkid=833066
+        title: TypeScript
+      - href: https://go.microsoft.com/fwlink/?linkid=833060
+        title: Visual Basic
+  - title: Workloads
+    items:
+      - title: Web & Cloud
+        items:
+          - href: https://go.microsoft.com/fwlink/?linkid=833085
+            title: ASP.NET and Web
+          - href: https://go.microsoft.com/fwlink/?linkid=833086
+            title: Azure
+          - href: https://go.microsoft.com/fwlink/?linkid=834748
+            title: Data science and analytical applications
+          - href: https://go.microsoft.com/fwlink/?linkid=833095
+            title: Data storage and processing
+          - href: https://go.microsoft.com/fwlink/?linkid=833075
+            title: Office/SharePoint
+          - href: https://go.microsoft.com/fwlink/?linkid=834351
+            title: Node.js
+          - href: https://go.microsoft.com/fwlink/?linkid=833068
+            title: Python
+      - title: Windows
+        items:
+          - href: https://go.microsoft.com/fwlink/?linkid=833083
+            title: .NET Desktop
+          - href: https://go.microsoft.com/fwlink/?linkid=833084
+            title: Desktop with C++
+          - href: https://go.microsoft.com/fwlink/?linkid=833082
+            title: Universal Windows Platform (UWP)
+      - title: Mobile & Gaming
+        items:
+          - href: https://go.microsoft.com/fwlink/?linkid=833089
+            title: Apache Cordova (JavaScript)
+          - href: https://go.microsoft.com/fwlink/?linkid=834749
+            title: Gaming with C++
+          - href: https://go.microsoft.com/fwlink/?linkid=833090
+            title: Mobile with C++
+          - href: https://go.microsoft.com/fwlink/?linkid=833091
+            title: Unity
+          - href: https://go.microsoft.com/fwlink/?linkid=833088
+            title: Xamarin (.NET)
+      - title: Other
+        items:
+          - href: https://go.microsoft.com/fwlink/?linkid=833099
+            title: Linux with C++
+          - href: https://go.microsoft.com/fwlink/?linkid=856606
+            title: .NET Core
+          - href: https://go.microsoft.com/fwlink/?linkid=834750
+            title: Visual Studio extension development
+  - title: Product Resources
+    items:
+      - href: https://visualstudio.microsoft.com/en-us
+        title: visualstudio.microsoft.com
+      - href: https://devblogs.microsoft.com/visualstudio/
+        title: Visual Studio blog
+      - href: https://www.visualstudio.com/en-us/downloads/
+        title: Downloads
+      - href: https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes
+        title: Release notes
+      - href: https://www.visualstudio.com/en-us/vs/support/
+        title: Support
+      - href: https://www.visualstudio.com/en-us/subscriptions/
+        title: Subscriptions
+      - href: https://marketplace.visualstudio.com/vs
+        title: Marketplace
+  - title: More Documentation
+    items:
+      - href: https://docs.microsoft.com/en-us/azure/
+        title: Azure
+      - href: https://docs.microsoft.com/en-us/nuget/
+        title: NuGet
+      - href: https://developer.microsoft.com/en-us/office/docs
+        title: Office
+      - href: https://docs.microsoft.com/en-us/powershell/
+        title: PowerShell
+      - href: https://docs.microsoft.com/en-us/sql/
+        title: SQL Server
+      - href: https://code.visualstudio.com/docs
+        title: Visual Studio Code
+      - href: https://docs.microsoft.com/en-us/visualstudio/mac
+        title: Visual Studio for Mac
+      - href: https://docs.microsoft.com/en-us/azure/devops
+        title: Azure DevOps Services
+      - href: https://docs.microsoft.com/en-us/windows/
+        title: Windows
+      - href: https://docs.microsoft.com/en-us
+        title: ...
+callToAction:
+  primary:
+    href: https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=navigation+cta&utm_content=download+vs2019
+    title: Download Visual Studio

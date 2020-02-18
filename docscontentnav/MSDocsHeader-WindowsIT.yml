@@ -1,0 +1,68 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://www.microsoft.com/en-us/itpro/windows
+  title: Windows IT Pro Center
+items:
+  - title: Explore
+    items:
+      - href: https://docs.microsoft.com/en-us/microsoft-365
+        title: Microsoft 365
+      - title: Windows 10
+        items:
+          - href: https://www.microsoft.com/en-us/itpro/windows-10
+            title: Overview
+          - href: https://www.microsoft.com/en-us/itpro/windows-10/windows-as-a-service
+            title: Windows as a service
+      - href: https://www.microsoft.com/en-us/itpro/windows-server
+        title: Windows Server
+      - href: https://technet.microsoft.com/en-us/microsoft-edge/
+        title: Microsoft Edge
+      - title: Microsoft devices
+        items:
+          - href: https://www.microsoft.com/en-us/itpro/surface
+            title: Surface
+          - href: https://www.microsoft.com/en-us/itpro/surface-hub
+            title: Surface Hub
+  - title: Docs
+    items:
+      - href: https://docs.microsoft.com/en-us/windows/windows-10/
+        title: Windows 10 and Windows 10 Mobile
+      - href: https://docs.microsoft.com/en-us/windows-server/windows-server-2016
+        title: Windows Server
+      - href: https://docs.microsoft.com/en-us/education/windows
+        title: Windows 10 for Education
+      - title: Microsoft Store
+        items:
+          - href: https://docs.microsoft.com/en-us/microsoft-store/
+            title: Microsoft Store for Business
+          - href: https://docs.microsoft.com/en-us/microsoft-store/index?toc=/microsoft-store/education/toc.json
+            title: Microsoft Store for Education
+      - href: https://docs.microsoft.com/en-us/microsoft-edge/deploy/
+        title: Microsoft Edge
+      - title: Microsoft devices
+        items:
+          - href: https://docs.microsoft.com/en-us/surface
+            title: Surface
+          - href: https://docs.microsoft.com/en-us/surface-hub
+            title: Surface Hub
+          - href: https://docs.microsoft.com/en-us/hololens
+            title: HoloLens
+      - href: https://technet.microsoft.com/en-us/library/hh563900
+        title: MDOP
+  - title: Downloads
+    items:
+      - href: https://technet.microsoft.com/en-us/evalcenter/dn781239
+        title: Windows 10 Enterprise Evaluation
+      - href: https://docs.microsoft.com/en-us/sccm/mdt
+        title: Microsoft Deployment Toolkit
+      - href: https://developer.microsoft.com/en-us/windows/hardware/windows-assessment-deployment-kit#winADK
+        title: Windows Assessment and Deployment Kit (ADK)
+      - href: https://technet.microsoft.com/en-us/solutionaccelerators/dd627342.aspx
+        title: Microsoft Assessment and Planning (MAP) Toolkit
+      - href: https://www.microsoft.com/en-us/download/details.aspx?id=45520
+        title: Remote Server Administration Tools (RSAT)
+  - href: https://docs.microsoft.com/en-us/powershell/windows/get-started
+    title: Scripts
+  - href: https://www.microsoft.com/en-us/itpro/windows/support
+    title: Support

@@ -1,0 +1,72 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://powerbi.microsoft.com/
+  title: Power BI
+items:
+  - title: Products
+    items:
+      - href: https://powerbi.microsoft.com/what-is-power-bi/
+        title: What is Power BI
+      - href: https://powerbi.microsoft.com/features/
+        title: Power BI
+      - href: https://powerbi.microsoft.com/desktop/
+        title: Power BI Desktop
+      - href: https://powerbi.microsoft.com/power-bi-premium/
+        title: Power BI Premium
+      - href: https://powerbi.microsoft.com/mobile/
+        title: Power BI Mobile
+      - href: https://powerbi.microsoft.com/power-bi-embedded/
+        title: Power BI Embedded
+      - href: https://powerbi.microsoft.com/report-server/
+        title: Power BI Report Server
+      - href: https://powerbi.microsoft.com/tour/
+        title: Tour
+      - href: https://powerbi.microsoft.com/pricing/
+        title: Pricing
+  - title: Solutions
+    items:
+      - href: https://powerbi.microsoft.com/partner-showcase/
+        title: Partner Showcase
+      - href: https://powerbi.microsoft.com/departments/finance/
+        title: Departments
+      - href: https://powerbi.microsoft.com/industries/
+        title: Industries
+      - href: https://appsource.microsoft.com/marketplace/apps?product=pbi-solutiontemplates
+        title: Solution Templates
+      - href: https://powerbi.microsoft.com/publishtoweb/
+        title: Data Stories
+  - title: Partners
+    items:
+      - href: https://powerbi.microsoft.com/partners/
+        title: Overview
+      - href: https://powerbi.microsoft.com/partner-showcase/
+        title: Partner Showcase
+      - href: https://aka.ms/pbicsoffers
+        title: Consulting Services
+      - href: https://powerbi.microsoft.com/find-a-partner/
+        title: Find a Partner
+      - href: https://powerbi.microsoft.com/become-a-partner/
+        title: Become a partner
+  - title: Learn
+    items:
+      - href: https://powerbi.microsoft.com/guided-learning/
+        title: Guided Learning
+      - href: https://powerbi.microsoft.com/documentation/powerbi-landing-page/
+        title: Documentation
+      - href: https://powerbi.microsoft.com/support/
+        title: Support
+      - href: http://community.powerbi.com/
+        title: Community
+      - href: https://ideas.powerbi.com/forums/265200-power-bi
+        title: Give Feedback
+      - href: https://powerbi.microsoft.com/documentation/powerbi-webinars/
+        title: Webinars
+      - href: https://powerbi.microsoft.com/blog/
+        title: Blog
+  - href: https://app.powerbi.com/?noSignUpCheck=1
+    title: Sign in
+callToAction:
+  primary:
+    href: https://powerbi.microsoft.com/get-started
+    title: Sign up free

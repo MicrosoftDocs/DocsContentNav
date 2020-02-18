@@ -1,0 +1,40 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/biztalk
+  title: BizTalk
+items:
+  - href: https://www.microsoft.com/en-us/cloud-platform/biztalk
+    title: Why BizTalk
+  - title: Docs
+    items:
+      - href: https://docs.microsoft.com/biztalk/core/biztalk-server-core-documentation
+        title: BizTalk
+      - href: https://msdn.microsoft.com/library/gg241192.aspx
+        title: HIS
+      - href: https://docs.microsoft.com/azure/logic-apps
+        title: Logic Apps
+  - title: Blogs & Forums
+    items:
+      - href: https://social.msdn.microsoft.com/forums/biztalk/en-us/home?category=biztalkserver
+        title: MSDN forums
+      - href: https://stackoverflow.com/questions/tagged/biztalk
+        title: Stack Overflow
+      - href: https://blogs.msdn.microsoft.com/biztalk_server_team_blog/
+        title: Product team blog
+      - href: https://blogs.msdn.microsoft.com/biztalkcpr/
+        title: Support team blog
+      - href: https://social.technet.microsoft.com/wiki/contents/articles/2240.biztalk-server-resources-on-the-technet-wiki.aspx
+        title: TechNet Wiki
+      - href: https://docs.microsoft.com/biztalk/dev-center/mvp-and-community-blogs
+        title: MVP & community blogs
+  - href: https://azure.microsoft.com/services/logic-apps/
+    title: Logic Apps
+  - title: MSDN subscribers
+    items:
+      - href: https://msdn.microsoft.com/subscriptions/default.aspx
+        title: Activate your subscription
+      - href: https://msdn.microsoft.com/subscriptions/aa948874.aspx
+        title: Get help with your subscription
+      - href: https://msdn.microsoft.com/magazine/default.aspx
+        title: MSDN Magazine

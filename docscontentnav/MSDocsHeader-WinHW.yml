@@ -1,0 +1,38 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/windows/hardware
+  title: Hardware Dev Center
+items:
+  - title: Explore
+    items:
+      - href: https://docs.microsoft.com/windows-hardware/design/device-experiences/device-experiences-scenarios
+        title: New device experiences
+      - href: https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon
+        title: USB driver development
+      - href: http://go.microsoft.com/fwlink/p/?LinkId=526369
+        title: Windows IoT Core
+      - href: https://www.microsoft.com/en-us/3d-print/windows-3d-printing
+        title: 3D printing
+  - href: https://docs.microsoft.com/en-us/windows/#pivot=hardware-dev
+    title: Docs
+  - title: Downloads
+    items:
+      - href: https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk
+        title: Windows Driver Kit (WDK)
+      - href: https://docs.microsoft.com/en-us/windows-hardware/test/hlk/windows-hardware-lab-kit
+        title: Hardware Lab Kit (HLK)
+      - href: https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
+        title: Assessment and Deployment Kit (ADK)
+      - href: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-symbols
+        title: Windows Symbol Packages
+      - href: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools
+        title: Windows Debugger (WinDbg)
+  - href: https://developer.microsoft.com/en-us/windows/hardware/events
+    title: Events
+  - href: https://docs.microsoft.com/en-us/samples/browse/?products=windows-wdk
+    title: Samples
+  - href: https://developer.microsoft.com/windows/hardware/support
+    title: Support
+  - href: https://partner.microsoft.com/dashboard
+    title: Dashboard

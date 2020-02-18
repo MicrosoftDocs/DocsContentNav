@@ -1,0 +1,44 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/en-us/windows/communitytoolkit/
+  title: Windows Community Toolkit
+items:
+  - title: Docs
+    items:
+      - href: https://docs.microsoft.com/en-us/windows/communitytoolkit/getting-started
+        title: Get Started
+      - href: https://aka.ms/uwptoolkitapp
+        title: Sample App
+  - title: Community
+    items:
+      - href: https://github.com/Microsoft/UWPCommunityToolkit
+        title: Code repository
+      - href: https://github.com/Microsoft/UWPCommunityToolkit/blob/master/contributing.md
+        title: Contribute
+      - href: https://github.com/Microsoft/UWPCommunityToolkit/graphs/contributors
+        title: Contributors
+      - href: https://github.com/Microsoft/UWPCommunityToolkit/milestones
+        title: Roadmap
+  - title: Feedback & requests
+    items:
+      - href: https://github.com/Microsoft/UWPCommunityToolkit/issues
+        title: GitHub issues
+      - href: https://wpdev.uservoice.com/forums/110705-universal-windows-platform/category/193402-uwp-community-toolkit
+        title: UserVoice
+      - href: https://stackoverflow.com/search?q=uwp+community+toolkit
+        title: Stack Overflow
+  - title: UWP Docs
+    items:
+      - href: https://developer.microsoft.com/en-us/windows/apps
+        title: Create UWP apps
+      - href: https://docs.microsoft.com/en-us/uwp
+        title: UWP API reference
+      - href: https://developer.microsoft.com/en-us/windows/downloads
+        title: Get the SDK
+      - href: https://docs.microsoft.com/en-us/windows/uwp/whats-new/windows-10-version-latest
+        title: New for developers
+      - href: https://developer.microsoft.com/en-us/windows/samples
+        title: UWP samples
+      - href: https://developer.microsoft.com/en-us/windows/support
+        title: Support

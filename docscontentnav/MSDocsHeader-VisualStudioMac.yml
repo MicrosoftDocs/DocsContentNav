@@ -1,0 +1,42 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/visualstudio/mac/
+  title: Visual Studio for Mac
+items:
+  - title: Get Started
+    items:
+      - href: https://docs.microsoft.com/visualstudio/mac/installation/
+        title: Installation
+      - href: https://docs.microsoft.com/visualstudio/mac/ide-tour/
+        title: IDE Tour
+      - href: https://docs.microsoft.com/visualstudio/mac/enable-subscription/
+        title: Enable Subscription
+  - title: Workloads
+    items:
+      - href: https://docs.microsoft.com/visualstudio/mac/asp-net-core
+        title: ASP.NET Core and Web
+      - href: https://docs.microsoft.com/visualstudio/mac/azure-workload/
+        title: Azure
+      - href: https://docs.microsoft.com/visualstudio/mac/unity-tools/
+        title: Unity Game Development
+      - href: https://docs.microsoft.com/visualstudio/mac/xamarin
+        title: Xamarin Mobile App Development
+  - title: Product Resources
+    items:
+      - href: https://visualstudio.microsoft.com/vs/mac/
+        title: visualstudio.microsoft.com
+      - href: https://visualstudio.microsoft.com/downloads/
+        title: Downloads
+      - href: https://aka.ms/vsmac-support/
+        title: Support
+      - href: https://aka.ms/vsmac-release-notes/
+        title: Release Notes
+      - href: https://aka.ms/devcomm-vsmac/
+        title: Developer Community
+      - href: https://visualstudio.microsoft.com/subscriptions/
+        title: Subscriptions
+callToAction:
+  primary:
+    href: https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=navigation+cta&utm_content=download+vsmac2019
+    title: Download Visual Studio for Mac

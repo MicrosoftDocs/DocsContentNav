@@ -1,0 +1,18 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/microsoft-edge/
+  title: Microsoft Edge
+items:
+  - title: Reference
+    items:
+      - href: https://developer.microsoft.com/en-us/microsoft-edge/tools/
+        title: Tools
+      - href: https://developer.microsoft.com/en-us/microsoft-edge/platform/status
+        title: Platform Status
+  - href: https://developer.microsoft.com/en-us/microsoft-edge/extensions/
+    title: Extensions
+  - href: https://developer.microsoft.com/en-us/microsoft-edge/support/
+    title: Support
+  - href: https://developer.microsoft.com/en-us/microsoft-edge/community/careers/
+    title: Careers

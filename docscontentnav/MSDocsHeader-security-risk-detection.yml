@@ -1,0 +1,22 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://www.microsoft.com/en-us/security-risk-detection/
+  title: Security Risk Detection
+items:
+  - href: https://www.microsoft.com/en-us/security-risk-detection/success-stories/
+    title: Success stories
+  - href: https://docs.microsoft.com/en-us/security-risk-detection/
+    title: For developers
+  - href: https://www.microsoft.com/en-us/research/project/project-springfield/
+    title: Meet the team
+  - title: Contact us
+    items:
+      - href: https://www.microsoft.com/en-us/security-risk-detection/contact-us/
+        title: Sign up for free trial
+      - href: https://www.microsoft.com/en-us/security-risk-detection/become-a-partner/
+        title: Become a partner
+  - href: https://www.microsoft.com/en-us/security-risk-detection/news/
+    title: News
+  - href: https://www.microsoft.com/en-us/security-risk-detection/faq/
+    title: FAQ

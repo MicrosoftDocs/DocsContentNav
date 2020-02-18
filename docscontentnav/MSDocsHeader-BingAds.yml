@@ -1,0 +1,22 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/en-us/advertising/
+  title: Advertising
+items:
+  - title: Documentation
+    items:
+      - href: https://docs.microsoft.com/en-us/advertising/guides/
+        title: Bing Ads API
+      - href: https://docs.microsoft.com/en-us/advertising/shopping-content/
+        title: Content API
+      - href: https://docs.microsoft.com/en-us/advertising/hotel-ads/
+        title: Hotel Ads
+      - href: https://docs.microsoft.com/en-us/advertising/scripts/
+        title: Scripts
+  - href: https://developers.ads.microsoft.com/News
+    title: News
+  - href: https://developers.ads.microsoft.com/Support
+    title: Support
+  - href: https://developers.ads.microsoft.com/Account
+    title: Account

@@ -1,0 +1,40 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/office
+  title: Office Dev Center
+items:
+  - href: https://developer.microsoft.com/en-us/outlook
+    title: Outlook
+  - href: https://docs.microsoft.com/office/dev/add-ins/outlook
+    title: Outlook add-ins
+  - href: https://docs.microsoft.com/en-us/outlook/rest/#outlook-rest-api-via-microsoft-graph
+    title: Outlook-REST-API
+  - href: https://docs.microsoft.com/en-us/office/dev/add-ins/reference/javascript-api-for-office?context=outlook/context
+    title: Outlook JavaScript API
+  - title: Resources
+    items:
+      - href: https://developer.microsoft.com/en-us/outlook/docs
+        title: Docs
+      - href: https://developer.microsoft.com/en-us/outlook/docs#outlooktraining
+        title: Training
+      - href: https://developer.microsoft.com/en-us/outlook/blogs
+        title: Blog
+      - href: https://developer.microsoft.com/en-us/outlook/gallery/?filterBy=Outlook,SDKs,Samples&showfilters=false
+        title: Samples & SDKs
+      - href: https://developer.microsoft.com/en-us/outlook/gallery/?filterBy=Outlook,Tools
+        title: Tools
+      - href: https://developer.microsoft.com/en-us/outlook/gallery/?filterBy=Podcasts,Videos,Outlook&showfilters=false
+        title: Videos & Podcasts
+      - href: https://developer.microsoft.com/en-us/outlook/events/?filterBy=Outlook
+        title: Events
+      - href: https://developer.microsoft.com/en-us/office/go-to-market
+        title: Go-to-Market Resources
+      - href: https://developer.microsoft.com/en-us/outlook/gallery/?filterBy=Outlook
+        title: All Resources
+  - href: https://developer.microsoft.com/en-us/office/dev-program
+    title: Developer Program
+  - href: https://developer.microsoft.com/en-us/outlook/docs#outlookcommunity
+    title: Support
+  - href: https://developer.microsoft.com/office/profile
+    title: Dashboard

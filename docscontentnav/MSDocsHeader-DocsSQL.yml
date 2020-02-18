@@ -1,0 +1,298 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/en-us/sql
+  title: SQL Docs
+items:
+  - title: Overview
+    items:
+      - title: On-premises
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation?view=sql-server-2017
+            title: SQL Server on Windows
+          - href: https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-overview?view=sql-server-2017
+            title: SQL Server on Linux
+      - title: Azure
+        items:
+          - href: https://docs.microsoft.com/en-us/azure/sql-database/
+            title: SQL Database
+          - href: https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is
+            title: SQL Data Warehouse
+          - href: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-overview/
+            title: SQL Server on a Windows VM
+          - href: https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sql/sql-server-linux-virtual-machines-overview
+            title: SQL Server on a Linux VM
+      - title: What's new
+        items:
+          - href: http://aka.ms/sqlvnextdocs
+            title: SQL Server
+          - href: http://aka.ms/newsqltooldoc
+            title: Tools
+          - href: http://aka.ms/newsqldbdoc
+            title: SQL Database
+          - href: http://aka.ms/newsqldwdoc
+            title: SQL Data Warehouse
+          - href: https://aka.ms/newsqlvmdoc
+            title: SQL Server on Azure VM
+      - title: Feedback and help
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/sql-server/sql-server-get-help?view=sql-server-2017
+            title: Help
+          - href: http://aka.ms/sqldocsfeedback
+            title: SQL Docs Feedback
+          - href: http://aka.ms/sqlfeedback
+            title: SQL Server Feedback
+          - href: https://cloudblogs.microsoft.com/sqlserver/
+            title: Blog
+          - href: https://twitter.com/sqldocs
+            title: Twitter
+          - href: https://social.msdn.microsoft.com/Forums/en-us/home?forum=sqldatabaseengine&filter=alltypes&sort=lastpostdesc
+            title: MSDN Forum
+          - href: http://aka.ms/editsqldocs
+            title: Contribute to SQL Docs
+          - href: https://docs.microsoft.com/en-us/sql/lp/sql-server/sql-education-center?view=sql-server-2017
+            title: SQL Education Center
+  - title: Install
+    items:
+      - title: Setup
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-2017
+            title: SQL Server
+          - href: https://docs.microsoft.com/en-us/sql/analysis-services/instances/install-windows/install-analysis-services?view=sql-server-2017
+            title: Analysis Services (SSAS)
+          - href: https://docs.microsoft.com/en-us/sql/integration-services/install-windows/install-integration-services?view=sql-server-2017
+            title: Integration Services (SSIS)
+          - href: https://docs.microsoft.com/en-us/sql/reporting-services/install-windows/install-reporting-services?view=sql-server-2017
+            title: Reporting Services (SSRS)
+          - href: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
+            title: SQL Server Management Studio (SSMS)
+          - href: https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017
+            title: SQL Server Data Tools (SSDT)
+          - href: https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017
+            title: Azure Data Studio
+      - title: Upgrade
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-sql-server?view=sql-server-2017
+            title: SQL Server
+          - href: https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-analysis-services?view=sql-server-2017
+            title: Analysis Services (SSAS)
+          - href: https://docs.microsoft.com/en-us/sql/integration-services/install-windows/upgrade-integration-services?view=sql-server-2017
+            title: Integration Services (SSIS)
+          - href: https://docs.microsoft.com/en-us/sql/reporting-services/install-windows/upgrade-and-migrate-reporting-services?view=sql-server-2017
+            title: Reporting Services (SSRS)
+      - title: Migrate
+        items:
+          - href: https://docs.microsoft.com/en-us/azure/dms/dms-overview
+            title: Azure Database Migration Service
+          - href: https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017
+            title: Database Migration Assistant
+          - href: https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017
+            title: SQL Server Migration Assistant
+          - href: https://docs.microsoft.com/en-us/sql/dea/database-experimentation-assistant-overview?view=sql-server-2017
+            title: Database Experimentation Asisstant
+  - title: Secure
+    items:
+      - href: https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/managing-logins-users-and-schemas-how-to-topics?view=sql-server-2017
+        title: Authentication and access
+      - href: https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sql-server-2017
+        title: Always Encrypted
+      - href: https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-2017
+        title: Dynamic Data Masking
+      - href: https://docs.microsoft.com/en-us/sql/relational-databases/security/permissions-database-engine?view=sql-server-2017
+        title: Permissions
+      - href: https://docs.microsoft.com/en-us/sql/relational-databases/security/row-level-security?view=sql-server-2017
+        title: Row-level security
+      - href: https://docs.microsoft.com/en-us/sql/connect/jdbc/understanding-ssl-support?view=sql-server-2017
+        title: Secure Socket Layer (SSL)
+      - href: https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-2017
+        title: Transparent Data Encryption (TDE)
+  - title: Develop
+    items:
+      - title: Basic design
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-2017
+            title: Databases
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/tables/tables?view=sql-server-2017
+            title: Tables
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support?view=sql-server-2017
+            title: Collation
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/indexes/indexes?view=sql-server-2017
+            title: Indexes
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine?view=sql-server-2017
+            title: Stored procedures
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/triggers/logon-triggers?view=sql-server-2017
+            title: Triggers
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017
+            title: Views
+      - title: Advanced design
+        items:
+          - href: https://docs.microsoft.com/sql/relational-databases/hierarchical-data-sql-server?view=sql-server-2017
+            title: Hierarchical data
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/json/json-data-sql-server?view=sql-server-2017
+            title: JSON
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/sequence-numbers/sequence-numbers?view=sql-server-2017
+            title: Sequence numbers
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server?view=sql-server-2017
+            title: Spatial data
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server?view=sql-server-2017
+            title: XML data
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/blob/filestream-sql-server?view=sql-server-2017
+            title: Filestream
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/blob/filetables-sql-server?view=sql-server-2017
+            title: Filetable
+      - title: Load Data
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/tools/bcp-utility?view=sql-server-2017
+            title: BCP
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/import-export/import-flat-file-wizard?view=sql-server-2017
+            title: Import Flat File Wizard
+          - href: https://docs.microsoft.com/en-us/sql/integration-services/import-export-data/import-and-export-data-with-the-sql-server-import-and-export-wizard?view=sql-server-2017
+            title: Import and Export Wizard
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/replication/sql-server-replication?view=sql-server-2017
+            title: Replication
+          - href: https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-2017
+            title: SQL Server Integration Services (SSIS)
+      - title: Query
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/search/full-text-search?view=sql-server-2017
+            title: Full-text search
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-2017
+            title: Joins
+          - href: https://docs.microsoft.com/en-us/sql/ssms/scripting/database-engine-scripting?view=sql-server-2017
+            title: Scripting
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/performance/subqueries?view=sql-server-2017
+            title: Subqueries
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/synonyms/synonyms-database-engine?view=sql-server-2017
+            title: Synonyms
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-2017
+            title: User-defined functions
+  - title: Administer
+    items:
+      - title: Business Continuity
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server?view=sql-server-2017
+            title: Always On Availability Groups
+          - href: https://docs.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server?view=sql-server-2017
+            title: Always On Failover Cluster Instance
+          - href: https://docs.microsoft.com/en-us/sql/database-engine/database-mirroring/database-mirroring-sql-server?view=sql-server-2017
+            title: Database Mirroring
+          - href: https://docs.microsoft.com/en-us/sql/database-engine/log-shipping/about-log-shipping-sql-server?view=sql-server-2017
+            title: Log Shipping
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-and-restore-of-sql-server-databases?view=sql-server-2017
+            title: Backup and restore
+      - title: Manage
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/connect/homepage-sql-connection-programming?view=sql-server-2017
+            title: Connect
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/maintenance-plans?view=sql-server-2017
+            title: Maintenance Plans
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/administer-servers-by-using-policy-based-management?view=sql-server-2017
+            title: Policy-based management
+          - href: https://docs.microsoft.com/en-us/sql/ssms/agent/sql-server-agent?view=sql-server-2017
+            title: SQL Server Agent
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/logs/the-transaction-log-sql-server?view=sql-server-2017
+            title: Transaction log management
+      - title: Tune
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/automatic-tuning/automatic-tuning?view=sql-server-2017
+            title: Automatic Tuning
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/performance/database-engine-tuning-advisor?view=sql-server-2017
+            title: Database Tuning Advisor
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/indexes/indexes?view=sql-server-2017
+            title: Indexes
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/in-memory-oltp-in-memory-optimization?view=sql-server-2017
+            title: In-Memory OLTP
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/statistics/statistics
+            title: Statistics
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-2017
+            title: Query Store
+      - title: Tools
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/extended-events/extended-events?view=sql-server-2017
+            title: Extended Events
+          - href: https://docs.microsoft.com/en-us/sql/tools/sqldiag-utility?view=sql-server-2017
+            title: SQL Diag
+          - href: https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-2017
+            title: SQL Server Profiler
+          - href: https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-2017
+            title: SQL Server Management Studio
+          - href: https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is?view=sql-server-2017
+            title: Azure Data Studio
+          - href: https://docs.microsoft.com/en-us/sql/ssdt/sql-server-data-tools?view=sql-server-2017
+            title: SQL Server Data Tools
+          - href: https://portal.azure.com/
+            title: Azure Portal
+  - title: Analyze
+    items:
+      - title: Reporting
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-2017
+            title: SQL Server Reporting Services (SSRS)
+          - href: https://docs.microsoft.com/en-us/power-bi/power-bi-overview
+            title: Power BI Service
+          - href: https://docs.microsoft.com/en-us/power-bi/report-server/get-started
+            title: Power BI Report Server
+      - title: Data Analytics
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/analytics-platform-system/?view=aps-pdw-2016-au7
+            title: Microsoft Analytics Platform System
+          - href: https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services?view=sql-server-2017
+            title: SQL Server Analysis Services (SSAS)
+          - href: https://docs.microsoft.com/en-us/azure/analysis-services/
+            title: Azure  Analysis Services
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/polybase/polybase-guide?view=sql-server-2017
+            title: Polybase
+          - href: https://docs.microsoft.com/en-us/sql/big-data-cluster/big-data-cluster-overview?view=sqlallproducts-allversions
+            title: SQL Server 2019 big data clusters
+      - title: AI and Machine Learning
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/advanced-analytics/what-is-sql-server-machine-learning?view=sql-server-2017
+            title: SQL Machine Learning Services (R & Python)
+          - href: https://docs.microsoft.com/en-us/sql/advanced-analytics/r/sql-server-r-services?view=sql-server-2017
+            title: SQL Server R Services
+          - href: https://docs.microsoft.com/en-us/azure/machine-learning/
+            title: Azure Machine Learning
+  - title: Reference
+    items:
+      - title: Reference
+        items:
+          - href: https://docs.microsoft.com/en-us/previous-versions/sql/
+            title: Archived Content (SQL 2005 - 2012)
+          - href: https://docs.microsoft.com/en-us/sql/samples/sql-samples-where-are?view=sql-server-2017
+            title: Database Samples
+          - href: https://docs.microsoft.com/en-us/sql/xquery/xquery-language-reference-sql-server?view=sql-server-2017
+            title: xQuery
+          - href: https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell?view=sql-server-2017
+            title: SQL Server PowerShell
+          - href: https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-2017
+            title: Transact-SQL (T-SQL)
+          - href: https://docs.microsoft.com/en-us/rest/api/sql/
+            title: SQL Rest API
+          - href: https://docs.microsoft.com/en-us/dotnet/api/?view=sqlserver-2017
+            title: SQL .NET SDK API
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/errors-events/errors-and-events-reference-database-engine?view=sql-server-2017
+            title: Errors and events
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/event-classes/sql-server-event-class-reference?view=sql-server-2017
+            title: Event classes
+      - title: System objects
+        items:
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-catalog-views/catalog-views-transact-sql?view=sql-server-2017
+            title: System catalog views
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-compatibility-views/system-compatibility-views-transact-sql?view=sql-server-2017
+            title: System compatibility views
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/system-dynamic-management-views?view=sql-server-2017
+            title: System dynamic management views
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-functions/system-functions-for-transact-sql?view=sql-server-2017
+            title: System functions
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-information-schema-views/system-information-schema-views-transact-sql?view=sql-server-2017
+            title: System information schema views
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/system-stored-procedures-transact-sql?view=sql-server-2017
+            title: System stored procedures
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-tables/system-tables-transact-sql?view=sql-server-2017
+            title: System tables
+          - href: https://docs.microsoft.com/en-us/sql/relational-databases/system-views/replication-views-transact-sql?view=sql-server-2017
+            title: System views
+callToAction:
+  primary:
+    href: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+    title: Download SQL Server

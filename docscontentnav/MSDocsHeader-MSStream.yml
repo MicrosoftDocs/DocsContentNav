@@ -1,0 +1,30 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://stream.microsoft.com/
+  title: Stream
+items:
+  - title: Learn
+    items:
+      - href: https://stream.microsoft.com/support/
+        title: Support
+      - href: https://stream.microsoft.com/documentation/
+        title: Documentation
+      - href: https://go.microsoft.com/fwlink/?linkid=851330
+        title: Community
+      - href: https://stream.microsoft.com/blog/
+        title: Blog
+      - href: https://stream.microsoft.com/office-collaboration/
+        title: Office 365 collaborations
+      - href: https://go.microsoft.com/fwlink/?linkid=851331
+        title: Give feedback
+  - href: https://stream.microsoft.com/tour/
+    title: Tour
+  - href: https://stream.microsoft.com/pricing/
+    title: Pricing
+  - href: https://web.microsoftstream.com/?noSignUpCheck=1
+    title: Sign in
+callToAction:
+  primary:
+    href: about:blank#
+    title: Sign up free

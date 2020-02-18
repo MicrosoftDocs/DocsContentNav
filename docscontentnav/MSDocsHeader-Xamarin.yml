@@ -1,0 +1,38 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/xamarin
+  title: Xamarin
+items:
+  - href: https://docs.microsoft.com/xamarin/get-started/
+    title: Get Started
+  - href: https://docs.microsoft.com/xamarin/android/
+    title: Android
+  - href: https://docs.microsoft.com/xamarin/ios/
+    title: iOS
+  - href: https://docs.microsoft.com/xamarin/mac/
+    title: Mac
+  - href: https://docs.microsoft.com/xamarin/xamarin-forms/
+    title: Xamarin.Forms
+  - title: Samples
+    items:
+      - href: https://docs.microsoft.com/xamarin/xamarin-forms/samples/
+        title: Xamarin.Forms Samples
+      - href: https://docs.microsoft.com/xamarin/android/samples/
+        title: Android Samples
+      - href: https://docs.microsoft.com/xamarin/ios/samples/
+        title: iOS Samples
+      - href: https://docs.microsoft.com/xamarin/mac/samples/
+        title: Mac Samples
+      - href: https://docs.microsoft.com/samples/browse/?products=xamarin
+        title: All Xamarin Samples
+  - title: APIs
+    items:
+      - href: https://docs.microsoft.com/dotnet/api/?view=xamarin-forms
+        title: Xamarin.Forms APIs
+      - href: https://docs.microsoft.com/dotnet/api/?view=xamarin-android-sdk-9
+        title: Android APIs
+      - href: https://docs.microsoft.com/dotnet/api/?view=xamarin-ios-sdk-12
+        title: iOS APIs
+      - href: https://docs.microsoft.com/dotnet/api/?view=xamarin-mac-sdk-14
+        title: Mac APIs

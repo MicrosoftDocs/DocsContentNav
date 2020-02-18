@@ -1,0 +1,22 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/windows
+  title: Windows Dev Center
+items:
+  - href: https://developer.microsoft.com/en-us/windows/iot
+    title: Windows IoT
+  - href: https://docs.microsoft.com/en-us/windows/iot-core/getstarted
+    title: Get started
+  - href: https://docs.microsoft.com/en-us/windows/iot-core/downloads
+    title: Downloads
+  - href: https://docs.microsoft.com/en-us/windows/iot-core
+    title: Docs
+  - href: https://docs.microsoft.com/samples/browse/?term=windows%20iot&products=windows
+    title: Samples
+  - href: https://docs.microsoft.com/en-us/windows/iot-core/resources
+    title: Resources
+  - href: https://docs.microsoft.com/en-us/windows/iot-core/release-notes/currentcommercial
+    title: Updates
+  - href: https://partner.microsoft.com/dashboard
+    title: Dashboard

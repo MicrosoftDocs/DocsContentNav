@@ -1,0 +1,90 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/graph
+  title: Microsoft Graph
+items:
+  - title: Solutions
+    items:
+      - href: https://developer.microsoft.com/en-us/graph/examples
+        title: All Solutions
+      - href: https://developer.microsoft.com/en-us/graph/examples/security-alerts
+        title: Correlate Security Alerts
+      - href: https://developer.microsoft.com/en-us/graph/examples/document-conversion
+        title: Document Conversion
+      - href: https://developer.microsoft.com/en-us/graph/examples/excel-workbook-integration
+        title: Excel Workbook Integration
+      - href: https://developer.microsoft.com/en-us/graph/examples/finding-meetings
+        title: Finding Meetings
+      - href: https://developer.microsoft.com/en-us/graph/examples/new-user-onboarding
+        title: New User Onboarding
+      - href: https://developer.microsoft.com/en-us/graph/examples/profile-management
+        title: Profile Management
+      - href: https://developer.microsoft.com/en-us/graph/examples/sync-mail
+        title: Mail Sync
+      - href: https://developer.microsoft.com/en-us/graph/partners
+        title: Partners
+  - href: https://developer.microsoft.com/en-us/graph/graph-explorer
+    title: Graph Explorer
+  - title: Getting Started
+    items:
+      - href: https://developer.microsoft.com/en-us/graph/get-started
+        title: All
+      - href: https://developer.microsoft.com/en-us/graph/get-started/dotnet-core
+        title: .NET Core
+      - href: https://developer.microsoft.com/en-us/graph/get-started/dotnet-framework
+        title: .NET Framework
+      - href: https://developer.microsoft.com/en-us/graph/get-started/android
+        title: Android
+      - href: https://developer.microsoft.com/en-us/graph/get-started/angular
+        title: Angular
+      - href: https://developer.microsoft.com/en-us/graph/get-started/ios
+        title: iOS
+      - href: https://developer.microsoft.com/en-us/graph/get-started/java
+        title: Java
+      - href: https://developer.microsoft.com/en-us/graph/get-started/javascript
+        title: JavaScript
+      - href: https://developer.microsoft.com/en-us/graph/get-started/node.js
+        title: Node.js
+      - href: https://developer.microsoft.com/en-us/graph/get-started/php
+        title: PHP
+      - href: https://developer.microsoft.com/en-us/graph/get-started/python
+        title: Python
+      - href: https://developer.microsoft.com/en-us/graph/get-started/react
+        title: React
+      - href: https://developer.microsoft.com/en-us/graph/get-started/ruby
+        title: Ruby
+      - href: https://developer.microsoft.com/en-us/graph/get-started/uwp
+        title: UWP
+      - href: https://developer.microsoft.com/en-us/graph/get-started/xamarin
+        title: Xamarin
+  - href: https://docs.microsoft.com/en-us/graph/
+    title: Docs
+  - href: https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0
+    title: API Reference
+  - title: Resources
+    items:
+      - href: https://developer.microsoft.com/en-us/graph/gallery
+        title: All Resources
+      - href: https://developer.microsoft.com/en-us/graph/blogs/
+        title: Blog
+      - href: https://developer.microsoft.com/en-us/graph/events
+        title: Events
+      - href: https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Samples,SDKs
+        title: Samples & SDKs
+      - href: https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Training
+        title: Training
+      - href: https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Tools
+        title: Tools
+      - href: https://developer.microsoft.com/en-us/graph/gallery/?filterBy=Podcasts,Videos
+        title: Videos & Podcasts
+      - href: https://developer.microsoft.com/en-us/graph/support
+        title: Support
+      - href: https://go.microsoft.com/fwlink/?linkid=2083908
+        title: My Apps
+  - title: Programs
+    items:
+      - href: https://developer.microsoft.com/en-us/office/dev-program
+        title: Office 365 Developer Program
+      - href: https://developer.microsoft.com/en-us/office/profile
+        title: Office 365 Dev Program Dashboard

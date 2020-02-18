@@ -1,0 +1,14 @@
+### YamlMime:ContentNav
+
+category:
+  href: http://dev.botframework.com/
+  title: Bot Framework
+items:
+  - href: https://dev.botframework.com/bots
+    title: My bots
+  - href: https://docs.microsoft.com/en-us/bot-framework
+    title: Documentation
+  - href: https://bots.botframework.com/
+    title: Bot Directory
+  - href: http://blog.botframework.com/
+    title: Blog

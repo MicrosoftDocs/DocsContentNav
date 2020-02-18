@@ -1,0 +1,32 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://flow.microsoft.com/
+  title: Flow
+items:
+  - href: https://flow.microsoft.com/templates
+    title: Templates
+  - href: https://flow.microsoft.com/connectors
+    title: Connectors
+  - title: Learn
+    items:
+      - href: https://flow.microsoft.com/documentation
+        title: Documentation
+      - href: https://go.microsoft.com/fwlink/p/?linkid=2018566
+        title: Learn
+      - href: https://flow.microsoft.com/support
+        title: Support
+      - href: https://go.microsoft.com/fwlink/?LinkID=787467
+        title: Community
+      - href: https://go.microsoft.com/fwlink/?LinkID=787474
+        title: Give Feedback
+      - href: https://flow.microsoft.com/blog
+        title: Blog
+      - href: https://flow.microsoft.com/pricing
+        title: Pricing
+  - href: https://flow.microsoft.com/signin
+    title: Sign In
+callToAction:
+  primary:
+    href: https://flow.microsoft.com/
+    title: Sign up free

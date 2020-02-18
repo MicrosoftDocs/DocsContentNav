@@ -1,0 +1,22 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://developer.microsoft.com/en-us/cortana
+  title: Cortana Dev Center
+items:
+  - href: https://dev.botframework.com/bots?c=cortana
+    title: My skills
+  - href: https://docs.microsoft.com/cortana/skills
+    title: Documentation
+  - href: https://docs.microsoft.com/en-us/cortana/skills/cortana-samples
+    title: Samples
+  - href: https://techcommunity.microsoft.com/t5/Cortana-Skills-Kit-Blog/bg-p/cortanaskillskit
+    title: Blog
+  - title: Community
+    items:
+      - href: https://techcommunity.microsoft.com/t5/Cortana-Skills/ct-p/cortanadev
+        title: Join the Cortana Developer Community
+      - href: https://twitter.com/cortanadev
+        title: Find us on Twitter
+  - href: https://partner.microsoft.com/dashboard
+    title: Dashboard

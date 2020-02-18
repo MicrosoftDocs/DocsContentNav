@@ -1,0 +1,44 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/en-us/gaming/playfab
+  title: Azure PlayFab
+items:
+  - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=quickstarts
+    title: Quickstarts
+  - title: Features
+    items:
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=authentication
+        title: Authentication
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=data
+        title: Data
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=config
+        title: Config
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=automation
+        title: Automation
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=social
+        title: Social
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=commerce
+        title: Commerce
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=multiplayer
+        title: Multiplayer
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=analytics
+        title: Analytics
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=insights
+        title: Insights
+      - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=engagement
+        title: Engagement
+  - href: https://docs.microsoft.com/en-us/gaming/playfab/index#pivot=documentation&panel=sdks
+    title: SDKs
+  - href: https://docs.microsoft.com/en-us/gaming/playfab/api-references/
+    title: API References
+  - href: https://docs.microsoft.com/en-us/gaming/playfab/release-notes/
+    title: Release Notes
+  - href: https://status.playfab.com/
+    title: Server Status
+  - href: https://docs.microsoft.com/en-us/gaming/playfab/roadmap
+    title: Roadmap
+  - href: https://community.playfab.com/index.html
+    title: Forums
+  - href: https://blog.playfab.com/blog
+    title: Blog

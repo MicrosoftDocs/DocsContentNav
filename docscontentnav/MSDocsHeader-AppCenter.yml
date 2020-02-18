@@ -1,0 +1,34 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/appcenter
+  title: Visual Studio App Center
+items:
+  - href: https://docs.microsoft.com/en-us/appcenter/build/
+    title: Build
+  - href: https://docs.microsoft.com/en-us/appcenter/test-cloud/
+    title: Test
+  - href: https://docs.microsoft.com/en-us/appcenter/analytics/
+    title: Analytics
+  - title: SDK
+    items:
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/android/
+        title: Android
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/ios/
+        title: iOS
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/macos/
+        title: macOS
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/uwp/
+        title: UWP
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/cordova/
+        title: Cordova
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native/
+        title: React Native
+      - href: https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/xamarin/
+        title: Xamarin
+  - href: https://docs.microsoft.com/en-us/appcenter/general/pricing/
+    title: Pricing
+callToAction:
+  primary:
+    href: https://appcenter.ms/login?utm_source=Nav_sign_up_button&utm_medium=referral&utm_campaign=appcenter_Nav_Sign_Up_Button
+    title: Free Account

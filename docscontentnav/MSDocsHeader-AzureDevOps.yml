@@ -1,0 +1,60 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://www.azure.com/en-us/
+  title: Azure
+items:
+  - href: https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops
+    title: DevOps
+  - title: Services
+    items:
+      - href: https://azure.microsoft.com/en-us/services/devops/repos/
+        title: Azure Repos
+      - href: https://azure.microsoft.com/en-us/services/devops/pipelines/
+        title: Azure Pipelines
+      - href: https://azure.microsoft.com/en-us/services/devops/boards/
+        title: Azure Boards
+      - href: https://azure.microsoft.com/en-us/services/devops/test-plans/
+        title: Azure Test Plans
+      - href: https://azure.microsoft.com/en-us/services/devops/artifacts/
+        title: Azure Artifacts
+  - title: Pricing
+    items:
+      - href: https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+        title: Azure DevOps Services
+      - href: https://azure.microsoft.com/en-us/pricing/details/devops/azure-pipelines/
+        title: Azure Pipelines
+      - href: https://azure.microsoft.com/en-us/pricing/details/devops/on-premises/
+        title: Team Foundation Server
+      - href: https://visualstudio.microsoft.com/en-us/team-services/compare-features/
+        title: Feature Comparisons
+  - title: News
+    items:
+      - href: https://docs.microsoft.com/en-us/azure/devops/release-notes
+        title: Release Notes
+      - href: https://docs.microsoft.com/en-us/azure/devops/learn
+        title: DevOps Resource Center
+      - href: https://blogs.msdn.microsoft.com/devops/
+        title: Microsoft DevOps Blog
+      - href: https://azure.microsoft.com/en-us/blog/topics/developer
+        title: Azure Blog
+      - href: https://azure.microsoft.com/en-us/case-studies/
+        title: Azure DevOps Case Studies
+  - title: Support
+    items:
+      - href: https://docs.microsoft.com/en-us/azure/devops
+        title: Documentation
+      - href: https://azure.microsoft.com/en-us/support/devops/
+        title: Azure DevOps Services
+      - href: https://visualstudio.microsoft.com/en-us/team-services/tfs_support/
+        title: Team Foundation Server
+      - href: https://visualstudio.microsoft.com/en-us/team-services/faq/
+        title: FAQ
+      - href: https://visualstudio.microsoft.com/en-us/team-services/support/#vsts-support
+        title: Contact
+  - href: https://my.visualstudio.com/en-us/
+    title: Subscriber Access
+callToAction:
+  primary:
+    href: https://go.microsoft.com/fwlink/?LinkId=307137&clcid=0x409&wt.mc_id=o~msft~docs~product-vsts-nav~menu&campaign=o~msft~docs~product-vsts-nav~menu
+    title: Try for free

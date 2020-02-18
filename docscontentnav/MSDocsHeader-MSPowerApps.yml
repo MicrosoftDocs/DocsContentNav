@@ -1,0 +1,40 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://powerapps.microsoft.com/
+  title: Power Apps
+items:
+  - title: Learn
+    items:
+      - href: https://powerapps.microsoft.com/tutorials
+        title: Documentation
+      - href: https://docs.microsoft.com/learn/browse/?products=powerapps&resource_type=learning%20path
+        title: Guided Learning
+      - href: https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1
+        title: Community
+      - href: https://powerapps.microsoft.com/tutorials/webinars-listing/
+        title: Webinars
+  - href: https://powerapps.microsoft.com/support/
+    title: Support
+  - title: Partners
+    items:
+      - href: https://powerapps.microsoft.com/partners/
+        title: Partners Overview
+      - href: https://powerapps.microsoft.com/partner-showcase/
+        title: Partner Showcase
+      - href: https://appsource.microsoft.com/marketplace/consulting-services?product=powerapps&page=1
+        title: Find Consulting Services
+      - href: https://powerapps.microsoft.com/find-a-partner/
+        title: Find a Partner
+      - href: https://powerapps.microsoft.com/partners/get-listed/
+        title: Become a Partner
+  - href: https://powerapps.microsoft.com/blog/
+    title: Blog
+  - href: https://powerapps.microsoft.com/pricing/
+    title: Pricing
+  - href: https://web.powerapps.com/?utm_source=PADocs&utm_medium=Header&utm_campaign=signin
+    title: Sign in
+callToAction:
+  primary:
+    href: https://powerapps.microsoft.com/
+    title: Sign up free

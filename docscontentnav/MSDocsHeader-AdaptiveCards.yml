@@ -1,0 +1,16 @@
+### YamlMime:ContentNav
+
+category:
+  href: http://adaptivecards.io/
+  title: Adaptive Cards
+items:
+  - href: https://docs.microsoft.com/en-us/adaptive-cards
+    title: Documentation
+  - href: https://adaptivecards.io/explorer/
+    title: Schema Explorer
+  - href: https://adaptivecards.io/samples/
+    title: Samples
+  - href: https://adaptivecards.io/blog/
+    title: Blog
+  - href: https://adaptivecards.io/designer
+    title: Designer

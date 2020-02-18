@@ -1,0 +1,22 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://dotnet.microsoft.com/
+  title: .NET
+items:
+  - href: https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet
+    title: About
+  - href: https://dotnet.microsoft.com/learn
+    title: Learn
+  - href: https://dotnet.microsoft.com/learn/dotnet/architecture-guides
+    title: Architecture
+  - href: https://docs.microsoft.com/dotnet
+    title: Docs
+  - href: https://dotnet.microsoft.com/download
+    title: Downloads
+  - href: https://dotnet.microsoft.com/platform/community
+    title: Community
+callToAction:
+  primary:
+    href: https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro
+    title: Get Started

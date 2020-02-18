@@ -1,0 +1,22 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/powershell
+  title: PowerShell
+items:
+  - title: More Docs
+    items:
+      - href: https://docs.microsoft.com/powershell/scripting/wmf/overview
+        title: Windows Management Framework
+      - href: https://docs.microsoft.com/powershell/scripting/dsc/overview/decisionmaker
+        title: PowerShell DSC
+      - href: https://docs.microsoft.com/powershell/scripting/gallery/overview
+        title: PowerShell Gallery
+      - href: https://docs.microsoft.com/powershell/scripting/developer/windows-powershell
+        title: PowerShell SDK
+      - href: https://docs.microsoft.com/dotnet/api/?view=pscore-6.2.0
+        title: PowerShell API Reference
+      - href: https://code.visualstudio.com/docs/languages/powershell
+        title: VSCode PowerShell Extension
+  - href: http://www.powershellgallery.com/
+    title: Gallery

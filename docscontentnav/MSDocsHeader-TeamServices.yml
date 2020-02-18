@@ -1,0 +1,54 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://www.visualstudio.com/
+  title: Visual Studio
+items:
+  - href: https://www.visualstudio.com/team-services/
+    title: Visual Studio Team Services
+  - title: Features
+    items:
+      - href: https://www.visualstudio.com/team-services/git/
+        title: Git
+      - href: https://www.visualstudio.com/team-services/tfvc/
+        title: TFVC
+      - href: https://www.visualstudio.com/team-services/agile-tools/
+        title: Agile Tools
+      - href: https://www.visualstudio.com/team-services/continuous-integration/
+        title: Continous Integration
+      - href: https://www.visualstudio.com/team-services/release-management/
+        title: Release Management
+      - href: https://www.visualstudio.com/team-services/features/
+        title: All Features
+  - title: Pricing
+    items:
+      - href: https://www.visualstudio.com/team-services/pricing/
+        title: Team Services
+      - href: https://www.visualstudio.com/team-services/tfs-pricing/
+        title: TFS
+      - href: https://www.visualstudio.com/team-services/compare-features/
+        title: Feature Comparisons
+  - title: News
+    items:
+      - href: https://www.visualstudio.com/team-services/updates/
+        title: Product Updates
+      - href: https://blogs.msdn.microsoft.com/devops/
+        title: Microsoft DevOps Blog
+      - href: https://www.visualstudio.com/team-services/case-studies/
+        title: VSTS Customer Stories
+  - title: Support
+    items:
+      - href: https://www.visualstudio.com/team-services/support/
+        title: Visual Studio Team Services
+      - href: https://www.visualstudio.com/team-services/tfs_support/
+        title: Team Foundation Server
+      - href: https://www.visualstudio.com/docs/overview
+        title: Documentation
+      - href: https://www.visualstudio.com/team-services/faq/
+        title: FAQ
+  - href: https://msdn.microsoft.com/subscriptions/manage/hh442900
+    title: Subscriber Access
+callToAction:
+  primary:
+    href: https://go.microsoft.com/fwlink/?LinkId=307137&clcid=0x409&wt.mc_id=o~msft~docs~product-vsts-nav~menu&campaign=o~msft~docs~product-vsts-nav~menu
+    title: Free Account
